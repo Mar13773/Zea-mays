@@ -12,8 +12,6 @@ RtcDS3231<TwoWire> Rtc(Wire);
 #define ME 0X20
 #define NEXT 0X21
 #define SIZE 150
-#define GREENLED D5 
-#define REDLED D6  
 #define WAIT_TIME 400
 
 #define DHTPIN D2
